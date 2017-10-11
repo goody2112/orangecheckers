@@ -1,0 +1,46 @@
+﻿body {
+    padding: 0;
+    /*margin-left: 20px;*/
+    margin: 20px 20px;
+    line-height: normal;
+    text align: left;
+    background: #fff;
+    color: #454545;
+    font-family: Tahoma, sans-serif;
+    font-size: .7em;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    background: inherit;
+}
+
+    a:hover {
+        color: #ED7D31;
+        background: inherit;
+        text-transform: uppercase;
+    }
+
+
+h1 {
+}
+
+.ocorange {
+    color: #ED7D31;
+    padding: 0px 0px 0px 0px;
+    background: inherit;
+    font-weight: bold;
+}
+
+.ocblack {
+    color: #000000;
+    background: inherit;
+    font-weight: normal;
+}
+
+.ocgrey {
+    color: #808080;
+    background: inherit;
+    font-weight: normal;
+}

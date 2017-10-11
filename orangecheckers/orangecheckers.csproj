@@ -75,6 +75,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\orangecheckers_sm.jpg" />
+    <Content Include="index.html" />
+    <Content Include="oc.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
